@@ -3,5 +3,5 @@ smpとかで使えそうなやつです。
 - [randomXZRangeTp](./randomXZRangeTp.js)
 XZを範囲指定、Yを1つの値に指定してランダムにtpさせます。
 
-- [randomXYZTp](./randomXYZTp.js)
+- [selectionXYZTp](./selectionXYZTp.js)
 XYZでいくつか指定して、その中からランダムな座標にtpさせます。
